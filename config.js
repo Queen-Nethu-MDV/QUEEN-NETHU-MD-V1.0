@@ -8,5 +8,5 @@ function convertToBool(text, fault = "true") {
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || "Enter your session ID",
   MONGODB: process.env.MONGODB || "mongodb://mongo:TcRCWZGNTzIKxnsUQvteZksjPiglffwf@switchyard.proxy.rlwy.net:46726",
-  OWNER_NUM: process.env.OWNER_NUM || "94779702531",
+  OWNER_NUM: process.env.OWNER_NUM || "94741648426",
 };
