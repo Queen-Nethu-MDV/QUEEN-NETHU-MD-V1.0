@@ -1,62 +1,84 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src=" alt="Typing SVG" /></a>
+# QUEEN-NETHU-MD 
 
- 
-  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐊𝐈𝐍𝐆 𝐉𝐀𝐍𝐀 🌝💚
+<p align="center">
+  <img src="https://files.catbox.moe/334aac.jpg" />
+</p>
+
+<!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
-</p
 
-<hr>
+  <!-- GitHub Stats Badges with new color palette -->
+  <p>
+    <img src="https://img.shields.io/github/forks/NaCkS-ai/Sung-Suho-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/NaCkS-ai/Sung-Suho-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/NaCkS-ai/Sung-Suho-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/NaCkS-ai/Sung-Suho-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+  </p>
 
-<hr>
+  <!-- Hero GIF with updated border & hover effect -->
+  <p>
+    <img src="https://i.imgur.com/LyHic3i.gif" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </p>
+
+</div>
+
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+
+**1. Fork This Repository**
+
+*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+
+  <a href="https://github.com/NaCkS-ai/Sung-Suho-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Sung-Suho-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20SUNG-SUHO" alt="Fork KING JANA MD" /></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+### 🔐 Step 2: Get Your Session ID
+
+Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <p align="center">
-  <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="
-    
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
+</p>
 
-![forks](https://img.shields.io/github/forks/ManulOfcTech/Manu-XMD?label=Forks&style=social)
+> 🔸 Pair Code Authentication
 
-![stars](https://img.shields.io/github/stars/ManulOfcTech/Manu-XMD?style=social)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://suho-pair3.onrender.com/pair)
+
+> 🔹 QR Code Authentication
+
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://suho-pair3.onrender.com/qr)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
+---
 
+## 📦 Deploy Now
 
-<a href="https://whatsapp.com/channel/0029VappbGp8V0twSHmKUc1A"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+| Platform | Deploy |
+|---------|--------|
+| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/malvin-pair) |
+| 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
+| ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
+| 🟢 Panel | [![Deploy to Panel](https://img.shields.io/badge/DEPLOY-PANEL-blue?style=for-the-badge&logo=koyeb)](httpshttps://dashboard.katabump.com/auth/login#203630) |
 
-<br>
-<br>
+---
+ ## DEPLOY ON GITHUB ⤵️
 
 
 </details>
 
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then fork the repo edit settings add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-
-
-
-<hr>
-
-<hr>
-1. FORK THIS REPO
-
-
-<a href='https://github.com/Queen-Nethu-MDV/QUEEN-NETHU-MD-V1.0/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-<br>
-<br>
-2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
-
-<a href='"/></a>
-<br>
-<br>
-## DEPLOYMENT METHODS
-
-### GitHub Actions Workflows
-
-#### Node.js CI
-
-You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
-
-```yaml
+```
 name: Node.js CI
 
 on:
@@ -80,7 +102,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Node.js
+     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
@@ -91,19 +113,17 @@ jobs:
     - name: Start application
       run: npm start
 ```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+      
 
+### Thank You Dear
 
-<br>
-<br>
-<br>
-## 👑 `QUEEN NETHU-MD BOT OWNER`👨‍💻 
+> DEVELOPER OF KING-JANA-MD
+- [Mr JANA ](https://github.com/MASTER-JANA)
+- Creater and Owner Of KING-JANA-MD 
 
-`⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
-
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
- <br>
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;QUEEN+NETHU-MD" alt="Typing SVG" /></a>
+> KING-JANA-MD Helper
+- [JANA King](https://github.com/MASTER-JANA)
+- For helping in bot plugin files.
+---
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
